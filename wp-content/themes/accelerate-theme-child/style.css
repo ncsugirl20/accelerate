@@ -17,11 +17,11 @@
 }
 
 #masthead {
-    background: none repeat scroll 0 0 red;
+    background: none repeat scroll 0 0 #333;
 }
 
 .button {
-    background: none repeat scroll 0 0 red;
+    background: none repeat scroll 0 0 #333;
 }
 
 .blog-post {
